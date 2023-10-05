@@ -6,13 +6,13 @@
 6
 7    <uses-sdk
 8        android:minSdkVersion="28"
-8-->D:\AndroidStudioProjects\Laboratorio06\app\src\main\AndroidManifest.xml
+8-->D:\Downloads\laboratorio_06-main (1)\laboratorio_06-main\Laboratorio06\app\src\main\AndroidManifest.xml
 9        android:targetSdkVersion="33" />
-9-->D:\AndroidStudioProjects\Laboratorio06\app\src\main\AndroidManifest.xml
+9-->D:\Downloads\laboratorio_06-main (1)\laboratorio_06-main\Laboratorio06\app\src\main\AndroidManifest.xml
 10
 11    <uses-permission android:name="android.permission.INTERNET" />
-11-->D:\AndroidStudioProjects\Laboratorio06\app\src\main\AndroidManifest.xml:5:5-66
-11-->D:\AndroidStudioProjects\Laboratorio06\app\src\main\AndroidManifest.xml:5:22-64
+11-->D:\Downloads\laboratorio_06-main (1)\laboratorio_06-main\Laboratorio06\app\src\main\AndroidManifest.xml:5:5-66
+11-->D:\Downloads\laboratorio_06-main (1)\laboratorio_06-main\Laboratorio06\app\src\main\AndroidManifest.xml:5:22-64
 12
 13    <permission
 13-->[androidx.core:core:1.9.0] C:\Users\wolfu\.gradle\caches\transforms-3\901e7b747bd9a793ea4119e169f5d0ff\transformed\core-1.9.0\AndroidManifest.xml:22:5-24:47
@@ -26,53 +26,53 @@
 17-->[androidx.core:core:1.9.0] C:\Users\wolfu\.gradle\caches\transforms-3\901e7b747bd9a793ea4119e169f5d0ff\transformed\core-1.9.0\AndroidManifest.xml:26:22-94
 18
 19    <application
-19-->D:\AndroidStudioProjects\Laboratorio06\app\src\main\AndroidManifest.xml:7:5-31:19
+19-->D:\Downloads\laboratorio_06-main (1)\laboratorio_06-main\Laboratorio06\app\src\main\AndroidManifest.xml:7:5-31:19
 20        android:allowBackup="true"
-20-->D:\AndroidStudioProjects\Laboratorio06\app\src\main\AndroidManifest.xml:8:9-35
+20-->D:\Downloads\laboratorio_06-main (1)\laboratorio_06-main\Laboratorio06\app\src\main\AndroidManifest.xml:8:9-35
 21        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
 21-->[androidx.core:core:1.9.0] C:\Users\wolfu\.gradle\caches\transforms-3\901e7b747bd9a793ea4119e169f5d0ff\transformed\core-1.9.0\AndroidManifest.xml:28:18-86
 22        android:dataExtractionRules="@xml/data_extraction_rules"
-22-->D:\AndroidStudioProjects\Laboratorio06\app\src\main\AndroidManifest.xml:9:9-65
+22-->D:\Downloads\laboratorio_06-main (1)\laboratorio_06-main\Laboratorio06\app\src\main\AndroidManifest.xml:9:9-65
 23        android:debuggable="true"
 24        android:extractNativeLibs="false"
 25        android:fullBackupContent="@xml/backup_rules"
-25-->D:\AndroidStudioProjects\Laboratorio06\app\src\main\AndroidManifest.xml:10:9-54
+25-->D:\Downloads\laboratorio_06-main (1)\laboratorio_06-main\Laboratorio06\app\src\main\AndroidManifest.xml:10:9-54
 26        android:icon="@mipmap/ic_launcher"
-26-->D:\AndroidStudioProjects\Laboratorio06\app\src\main\AndroidManifest.xml:11:9-43
+26-->D:\Downloads\laboratorio_06-main (1)\laboratorio_06-main\Laboratorio06\app\src\main\AndroidManifest.xml:11:9-43
 27        android:label="@string/app_name"
-27-->D:\AndroidStudioProjects\Laboratorio06\app\src\main\AndroidManifest.xml:12:9-41
+27-->D:\Downloads\laboratorio_06-main (1)\laboratorio_06-main\Laboratorio06\app\src\main\AndroidManifest.xml:12:9-41
 28        android:roundIcon="@mipmap/ic_launcher_round"
-28-->D:\AndroidStudioProjects\Laboratorio06\app\src\main\AndroidManifest.xml:13:9-54
+28-->D:\Downloads\laboratorio_06-main (1)\laboratorio_06-main\Laboratorio06\app\src\main\AndroidManifest.xml:13:9-54
 29        android:supportsRtl="true"
-29-->D:\AndroidStudioProjects\Laboratorio06\app\src\main\AndroidManifest.xml:14:9-35
+29-->D:\Downloads\laboratorio_06-main (1)\laboratorio_06-main\Laboratorio06\app\src\main\AndroidManifest.xml:14:9-35
 30        android:testOnly="true"
 31        android:theme="@style/Theme.Laboratorio06" >
-31-->D:\AndroidStudioProjects\Laboratorio06\app\src\main\AndroidManifest.xml:15:9-51
+31-->D:\Downloads\laboratorio_06-main (1)\laboratorio_06-main\Laboratorio06\app\src\main\AndroidManifest.xml:15:9-51
 32        <activity
-32-->D:\AndroidStudioProjects\Laboratorio06\app\src\main\AndroidManifest.xml:17:9-21:58
+32-->D:\Downloads\laboratorio_06-main (1)\laboratorio_06-main\Laboratorio06\app\src\main\AndroidManifest.xml:17:9-21:58
 33            android:name="com.example.laboratorio06.CityImageViewActivity"
-33-->D:\AndroidStudioProjects\Laboratorio06\app\src\main\AndroidManifest.xml:18:13-50
+33-->D:\Downloads\laboratorio_06-main (1)\laboratorio_06-main\Laboratorio06\app\src\main\AndroidManifest.xml:18:13-50
 34            android:exported="false"
-34-->D:\AndroidStudioProjects\Laboratorio06\app\src\main\AndroidManifest.xml:19:13-37
+34-->D:\Downloads\laboratorio_06-main (1)\laboratorio_06-main\Laboratorio06\app\src\main\AndroidManifest.xml:19:13-37
 35            android:label="@string/title_activity_city_image"
-35-->D:\AndroidStudioProjects\Laboratorio06\app\src\main\AndroidManifest.xml:20:13-62
+35-->D:\Downloads\laboratorio_06-main (1)\laboratorio_06-main\Laboratorio06\app\src\main\AndroidManifest.xml:20:13-62
 36            android:theme="@style/Theme.Laboratorio06" />
-36-->D:\AndroidStudioProjects\Laboratorio06\app\src\main\AndroidManifest.xml:21:13-55
+36-->D:\Downloads\laboratorio_06-main (1)\laboratorio_06-main\Laboratorio06\app\src\main\AndroidManifest.xml:21:13-55
 37        <activity
-37-->D:\AndroidStudioProjects\Laboratorio06\app\src\main\AndroidManifest.xml:22:9-30:20
+37-->D:\Downloads\laboratorio_06-main (1)\laboratorio_06-main\Laboratorio06\app\src\main\AndroidManifest.xml:22:9-30:20
 38            android:name="com.example.laboratorio06.MainActivity"
-38-->D:\AndroidStudioProjects\Laboratorio06\app\src\main\AndroidManifest.xml:23:13-41
+38-->D:\Downloads\laboratorio_06-main (1)\laboratorio_06-main\Laboratorio06\app\src\main\AndroidManifest.xml:23:13-41
 39            android:exported="true" >
-39-->D:\AndroidStudioProjects\Laboratorio06\app\src\main\AndroidManifest.xml:24:13-36
+39-->D:\Downloads\laboratorio_06-main (1)\laboratorio_06-main\Laboratorio06\app\src\main\AndroidManifest.xml:24:13-36
 40            <intent-filter>
-40-->D:\AndroidStudioProjects\Laboratorio06\app\src\main\AndroidManifest.xml:25:13-29:29
+40-->D:\Downloads\laboratorio_06-main (1)\laboratorio_06-main\Laboratorio06\app\src\main\AndroidManifest.xml:25:13-29:29
 41                <action android:name="android.intent.action.MAIN" />
-41-->D:\AndroidStudioProjects\Laboratorio06\app\src\main\AndroidManifest.xml:26:17-69
-41-->D:\AndroidStudioProjects\Laboratorio06\app\src\main\AndroidManifest.xml:26:25-66
+41-->D:\Downloads\laboratorio_06-main (1)\laboratorio_06-main\Laboratorio06\app\src\main\AndroidManifest.xml:26:17-69
+41-->D:\Downloads\laboratorio_06-main (1)\laboratorio_06-main\Laboratorio06\app\src\main\AndroidManifest.xml:26:25-66
 42
 43                <category android:name="android.intent.category.LAUNCHER" />
-43-->D:\AndroidStudioProjects\Laboratorio06\app\src\main\AndroidManifest.xml:28:17-77
-43-->D:\AndroidStudioProjects\Laboratorio06\app\src\main\AndroidManifest.xml:28:27-74
+43-->D:\Downloads\laboratorio_06-main (1)\laboratorio_06-main\Laboratorio06\app\src\main\AndroidManifest.xml:28:17-77
+43-->D:\Downloads\laboratorio_06-main (1)\laboratorio_06-main\Laboratorio06\app\src\main\AndroidManifest.xml:28:27-74
 44            </intent-filter>
 45        </activity>
 46

@@ -23,10 +23,10 @@ com.example.laboratorio06.app-constraintlayout-2.1.4-21 C:\Users\wolfu\.gradle\c
 com.example.laboratorio06.app-savedstate-1.2.0-22 C:\Users\wolfu\.gradle\caches\transforms-3\e7b0a1138e152307ba162fd9a0c4add3\transformed\savedstate-1.2.0\res
 com.example.laboratorio06.app-lifecycle-livedata-core-2.5.1-23 C:\Users\wolfu\.gradle\caches\transforms-3\ed1987b0f9079fcde0d3d98f3892c7f0\transformed\lifecycle-livedata-core-2.5.1\res
 com.example.laboratorio06.app-appcompat-1.6.1-24 C:\Users\wolfu\.gradle\caches\transforms-3\ed6e5c3f88bef2ff70db576093186c03\transformed\appcompat-1.6.1\res
-com.example.laboratorio06.app-pngs-25 D:\AndroidStudioProjects\Laboratorio06\app\build\generated\res\pngs\debug
-com.example.laboratorio06.app-resValues-26 D:\AndroidStudioProjects\Laboratorio06\app\build\generated\res\resValues\debug
-com.example.laboratorio06.app-packageDebugResources-27 D:\AndroidStudioProjects\Laboratorio06\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
-com.example.laboratorio06.app-packageDebugResources-28 D:\AndroidStudioProjects\Laboratorio06\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
-com.example.laboratorio06.app-merged_res-29 D:\AndroidStudioProjects\Laboratorio06\app\build\intermediates\merged_res\debug
-com.example.laboratorio06.app-debug-30 D:\AndroidStudioProjects\Laboratorio06\app\src\debug\res
-com.example.laboratorio06.app-main-31 D:\AndroidStudioProjects\Laboratorio06\app\src\main\res
+com.example.laboratorio06.app-pngs-25 D:\Downloads\laboratorio_06-main (1)\laboratorio_06-main\Laboratorio06\app\build\generated\res\pngs\debug
+com.example.laboratorio06.app-resValues-26 D:\Downloads\laboratorio_06-main (1)\laboratorio_06-main\Laboratorio06\app\build\generated\res\resValues\debug
+com.example.laboratorio06.app-packageDebugResources-27 D:\Downloads\laboratorio_06-main (1)\laboratorio_06-main\Laboratorio06\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.laboratorio06.app-packageDebugResources-28 D:\Downloads\laboratorio_06-main (1)\laboratorio_06-main\Laboratorio06\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.laboratorio06.app-merged_res-29 D:\Downloads\laboratorio_06-main (1)\laboratorio_06-main\Laboratorio06\app\build\intermediates\merged_res\debug
+com.example.laboratorio06.app-debug-30 D:\Downloads\laboratorio_06-main (1)\laboratorio_06-main\Laboratorio06\app\src\debug\res
+com.example.laboratorio06.app-main-31 D:\Downloads\laboratorio_06-main (1)\laboratorio_06-main\Laboratorio06\app\src\main\res

@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.laboratorio06.app-mergeDebugResources-26:/values-de/values-de.xml",
+            "outputFile": "com.example.laboratorio06.app-mergeDebugResources-27:/values-de/values-de.xml",
             "map": [
                 {
                     "source": "C:\\Users\\wolfu\\.gradle\\caches\\transforms-3\\ed6e5c3f88bef2ff70db576093186c03\\transformed\\appcompat-1.6.1\\res\\values-de\\values-de.xml",

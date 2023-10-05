@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.laboratorio06.app-mergeDebugResources-26:/values-sw/values-sw.xml",
+            "outputFile": "com.example.laboratorio06.app-mergeDebugResources-27:/values-sw/values-sw.xml",
             "map": [
                 {
                     "source": "C:\\Users\\wolfu\\.gradle\\caches\\transforms-3\\e2d9721e83a1540d5039150c68d62018\\transformed\\material-1.5.0\\res\\values-sw\\values-sw.xml",

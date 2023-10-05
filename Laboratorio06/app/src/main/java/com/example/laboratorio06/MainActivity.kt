@@ -5,6 +5,7 @@ import android.os.Bundle
 import android.view.View
 import android.widget.AdapterView
 import android.widget.ArrayAdapter
+import android.widget.Button
 import android.widget.Spinner
 import okhttp3.*
 import androidx.appcompat.app.AppCompatActivity
@@ -21,27 +22,23 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
         citySpinner=findViewById(R.id.citySpinner)
         fetchCities()
+        val button = findViewById<Button>(R.id.viewCityButton)
 
         val adapter = ArrayAdapter(this, android.R.layout.simple_spinner_item, cities)
         adapter.setDropDownViewResource(android.R.layout.simple_spinner_dropdown_item)
         citySpinner.adapter = adapter
 
-        /*// Add an OnItemSelectedListener to the spinner
-        citySpinner.onItemSelectedListener = object : AdapterView.OnItemSelectedListener {
-            override fun onItemSelected(parent: AdapterView<*>?, view: View?, position: Int, id: Long) {
-                val selectedCity = parent?.getItemAtPosition(position) as? String
-                if (!selectedCity.isNullOrBlank()) {
-                    // Start the CityImageViewActivity and pass the selected city as an extra
-                    val intent = Intent(applicationContext, CityImageViewActivity::class.java)
-                    intent.putExtra("cityName", selectedCity)
-                    startActivity(intent)
-                }
-            }
 
-            override fun onNothingSelected(parent: AdapterView<*>?) {
-                // Do nothing
+        button.setOnClickListener {
+            val selectedCity = citySpinner.selectedItem.toString()
+            if (selectedCity.isNotEmpty()) {
+
+                val intent = Intent(applicationContext, CityImageViewActivity::class.java)
+                intent.putExtra("cityName", selectedCity)
+                startActivity(intent)
             }
-        }*/
+        }
+
     }
 
     private fun fetchCities() {

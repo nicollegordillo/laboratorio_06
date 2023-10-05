@@ -1,4 +1,4 @@
-#Thu Oct 05 09:27:07 CST 2023
+#Thu Oct 05 13:53:03 CST 2023
 base.0=D\:\\AndroidStudioProjects\\Laboratorio06\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
 base.1=D\:\\AndroidStudioProjects\\Laboratorio06\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
 base.2=D\:\\AndroidStudioProjects\\Laboratorio06\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\4\\classes.dex

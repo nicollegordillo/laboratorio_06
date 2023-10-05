@@ -30,6 +30,11 @@
         android:testOnly="true"
         android:theme="@style/Theme.Laboratorio06" >
         <activity
+            android:name="com.example.laboratorio06.CityImageViewActivity"
+            android:exported="false"
+            android:label="@string/title_activity_city_image"
+            android:theme="@style/Theme.Laboratorio06" />
+        <activity
             android:name="com.example.laboratorio06.MainActivity"
             android:exported="true" >
             <intent-filter>

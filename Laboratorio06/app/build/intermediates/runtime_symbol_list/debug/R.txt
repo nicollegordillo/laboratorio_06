@@ -2587,6 +2587,7 @@ int id auto 0x7f080053
 int id autoComplete 0x7f080054
 int id autoCompleteToEnd 0x7f080055
 int id autoCompleteToStart 0x7f080056
+int id backButton 0x7f0801da
 int id barrier 0x7f080057
 int id baseline 0x7f080058
 int id beginOnFirstDraw 0x7f080059
@@ -2618,6 +2619,7 @@ int id chip3 0x7f080072
 int id chip_group 0x7f080073
 int id chronometer 0x7f080074
 int id circle_center 0x7f080075
+int id cityImageView 0x7f0801db
 int id citySpinner 0x7f080076
 int id clear_text 0x7f080077
 int id clip_horizontal 0x7f080078
@@ -2696,6 +2698,7 @@ int id fragment_container_view_tag 0x7f0800c0
 int id frost 0x7f0800c1
 int id ghost_view 0x7f0800c2
 int id ghost_view_holder 0x7f0800c3
+int id glide_custom_view_target_tag 0x7f0801dc
 int id gone 0x7f0800c4
 int id graph 0x7f0800c5
 int id graph_wrap 0x7f0800c6
@@ -2957,6 +2960,7 @@ int id unlabeled 0x7f0801c5
 int id up 0x7f0801c6
 int id useLogo 0x7f0801c7
 int id vertical_only 0x7f0801c8
+int id viewCityButton 0x7f0801dd
 int id view_offset_helper 0x7f0801c9
 int id view_transition 0x7f0801ca
 int id view_tree_lifecycle_owner 0x7f0801cb
@@ -3059,6 +3063,7 @@ int layout abc_search_dropdown_item_icons_2line 0x7f0b0018
 int layout abc_search_view 0x7f0b0019
 int layout abc_select_dialog_material 0x7f0b001a
 int layout abc_tooltip 0x7f0b001b
+int layout activity_city_image 0x7f0b0074
 int layout activity_main 0x7f0b001c
 int layout custom_dialog 0x7f0b001d
 int layout design_bottom_navigation_item 0x7f0b001e
@@ -3282,6 +3287,7 @@ int string path_password_eye_mask_visible 0x7f0e0080
 int string path_password_strike_through 0x7f0e0081
 int string search_menu_title 0x7f0e0082
 int string status_bar_notification_info_overflow 0x7f0e0083
+int string title_activity_city_image 0x7f0e0084
 int style AlertDialog_AppCompat 0x7f0f0000
 int style AlertDialog_AppCompat_Light 0x7f0f0001
 int style AndroidThemeColorAccentYellow 0x7f0f0002

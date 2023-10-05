@@ -3,6 +3,7 @@
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
     <string name="app_name">Laboratorio06</string>
+    <string name="title_activity_city_image"/>
     <style name="Base.Theme.Laboratorio06" parent="Theme.Material3.DayNight.NoActionBar">
         
         

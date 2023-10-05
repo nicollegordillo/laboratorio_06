@@ -4,11 +4,16 @@ color black
 color white
 drawable ic_launcher_background
 drawable ic_launcher_foreground
+id backButton
+id cityImageView
 id citySpinner
+id viewCityButton
+layout activity_city_image
 layout activity_main
 mipmap ic_launcher
 mipmap ic_launcher_round
 string app_name
+string title_activity_city_image
 style Base.Theme.Laboratorio06
 style Theme.Laboratorio06
 xml backup_rules
